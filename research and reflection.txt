@@ -1,0 +1,5 @@
+I use a lot of websites and web apps every day, like YouTube, Gmail, Twitter, and Notion. Out of all of them, Notion really stands out to me. It’s simple but powerful, and it feels easy to use without being boring. I like how I can organize my notes, projects, and tasks exactly how I want, and the interface is clean and responsive whether I’m on my laptop or phone. It just feels like the app adapts to me, not the other way around, which makes using it enjoyable.
+
+By the end of this cohort, I’m hoping to build a personal portfolio website that shows off my projects and skills in frontend development. I want it to be easy to navigate, look nice, and work well on both desktop and mobile.
+
+What excites me most about frontend development is working with CSS animations, interactive UI elements, and responsive design. I love the idea of making websites feel alive and engaging. At the same time, I get a little nervous about debugging tricky JavaScript problems and making sure my site runs fast, because those can get frustrating. But I know these challenges are part of learning, and I’m excited to tackle them as I practice and improve.
